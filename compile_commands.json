@@ -1,0 +1,1803 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/VP8Source.cpp.o",
+            "../../src/xop/VP8Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/VP8Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/RtspServer.cpp.o",
+            "../../src/xop/RtspServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/DigestAuthentication.cpp.o",
+            "../../src/xop/DigestAuthentication.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/DigestAuthentication.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/RtspConnection.cpp.o",
+            "../../src/xop/RtspConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/example/rtsp_server.cpp.o",
+            "../../example/rtsp_server.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../example/rtsp_server.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/BufferReader.cpp.o",
+            "../../src/net/BufferReader.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferReader.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/SocketUtil.cpp.o",
+            "../../src/net/SocketUtil.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SocketUtil.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/RtpConnection.cpp.o",
+            "../../src/xop/RtpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/TaskScheduler.cpp.o",
+            "../../src/net/TaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/SelectTaskScheduler.cpp.o",
+            "../../src/net/SelectTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SelectTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/EpollTaskScheduler.cpp.o",
+            "../../src/net/EpollTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EpollTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/TcpSocket.cpp.o",
+            "../../src/net/TcpSocket.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpSocket.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/MemoryManager.cpp.o",
+            "../../src/net/MemoryManager.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/MemoryManager.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/AACSource.cpp.o",
+            "../../src/xop/AACSource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/AACSource.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/EventLoop.cpp.o",
+            "../../src/net/EventLoop.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EventLoop.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/DigestAuthentication.cpp.o",
+            "../../src/xop/DigestAuthentication.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/DigestAuthentication.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/example/rtsp_h264_file.cpp.o",
+            "../../example/rtsp_h264_file.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../example/rtsp_h264_file.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/G711ASource.cpp.o",
+            "../../src/xop/G711ASource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/G711ASource.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/G711ASource.cpp.o",
+            "../../src/xop/G711ASource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/G711ASource.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/example/rtsp_pusher.cpp.o",
+            "../../example/rtsp_pusher.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../example/rtsp_pusher.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/RtspPusher.cpp.o",
+            "../../src/xop/RtspPusher.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspPusher.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/AACSource.cpp.o",
+            "../../src/xop/AACSource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/AACSource.cpp"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/camera/mpi_encoder.c.o",
+            "../../src/camera/mpi_encoder.c"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/camera/mpi_encoder.c"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/EventLoop.cpp.o",
+            "../../src/net/EventLoop.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EventLoop.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/RtpConnection.cpp.o",
+            "../../src/xop/RtpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/Logger.cpp.o",
+            "../../src/net/Logger.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Logger.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/NetInterface.cpp.o",
+            "../../src/net/NetInterface.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/NetInterface.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/SelectTaskScheduler.cpp.o",
+            "../../src/net/SelectTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SelectTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/MediaSession.cpp.o",
+            "../../src/xop/MediaSession.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/MediaSession.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/Timestamp.cpp.o",
+            "../../src/net/Timestamp.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timestamp.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/RtspPusher.cpp.o",
+            "../../src/xop/RtspPusher.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspPusher.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/H264Parser.cpp.o",
+            "../../src/xop/H264Parser.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Parser.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/MemoryManager.cpp.o",
+            "../../src/net/MemoryManager.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/MemoryManager.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/H264Parser.cpp.o",
+            "../../src/xop/H264Parser.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Parser.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/TaskScheduler.cpp.o",
+            "../../src/net/TaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/RtspServer.cpp.o",
+            "../../src/xop/RtspServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/TcpServer.cpp.o",
+            "../../src/net/TcpServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/TcpSocket.cpp.o",
+            "../../src/net/TcpSocket.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpSocket.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/VP8Source.cpp.o",
+            "../../src/xop/VP8Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/VP8Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/BufferReader.cpp.o",
+            "../../src/net/BufferReader.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferReader.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/RtspMessage.cpp.o",
+            "../../src/xop/RtspMessage.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspMessage.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/SocketUtil.cpp.o",
+            "../../src/net/SocketUtil.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SocketUtil.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/VP8Source.cpp.o",
+            "../../src/xop/VP8Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/VP8Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/H264Source.cpp.o",
+            "../../src/xop/H264Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/H264Source.cpp.o",
+            "../../src/xop/H264Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/Timer.cpp.o",
+            "../../src/net/Timer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/BufferWriter.cpp.o",
+            "../../src/net/BufferWriter.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferWriter.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/H265Source.cpp.o",
+            "../../src/xop/H265Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H265Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/Timer.cpp.o",
+            "../../src/net/Timer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/BufferReader.cpp.o",
+            "../../src/net/BufferReader.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferReader.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/H265Source.cpp.o",
+            "../../src/xop/H265Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H265Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/MediaSession.cpp.o",
+            "../../src/xop/MediaSession.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/MediaSession.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/DigestAuthentication.cpp.o",
+            "../../src/xop/DigestAuthentication.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/DigestAuthentication.cpp"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/camera/camera_source.c.o",
+            "../../src/camera/camera_source.c"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/camera/camera_source.c"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/RtspServer.cpp.o",
+            "../../src/xop/RtspServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/H264Parser.cpp.o",
+            "../../src/xop/H264Parser.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Parser.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/Pipe.cpp.o",
+            "../../src/net/Pipe.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Pipe.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/TcpServer.cpp.o",
+            "../../src/net/TcpServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/H264Source.cpp.o",
+            "../../src/xop/H264Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H264Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/RtpConnection.cpp.o",
+            "../../src/xop/RtpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/TaskScheduler.cpp.o",
+            "../../src/net/TaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/RtspPusher.cpp.o",
+            "../../src/xop/RtspPusher.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspPusher.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/xop/G711ASource.cpp.o",
+            "../../src/xop/G711ASource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/G711ASource.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/Timestamp.cpp.o",
+            "../../src/net/Timestamp.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timestamp.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/Pipe.cpp.o",
+            "../../src/net/Pipe.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Pipe.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/Timestamp.cpp.o",
+            "../../src/net/Timestamp.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timestamp.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/Acceptor.cpp.o",
+            "../../src/net/Acceptor.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Acceptor.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/Logger.cpp.o",
+            "../../src/net/Logger.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Logger.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/Logger.cpp.o",
+            "../../src/net/Logger.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Logger.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/MemoryManager.cpp.o",
+            "../../src/net/MemoryManager.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/MemoryManager.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/TcpSocket.cpp.o",
+            "../../src/net/TcpSocket.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpSocket.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/SelectTaskScheduler.cpp.o",
+            "../../src/net/SelectTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SelectTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/Timer.cpp.o",
+            "../../src/net/Timer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Timer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/RtspMessage.cpp.o",
+            "../../src/xop/RtspMessage.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspMessage.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/RtspMessage.cpp.o",
+            "../../src/xop/RtspMessage.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspMessage.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/TcpConnection.cpp.o",
+            "../../src/net/TcpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/Acceptor.cpp.o",
+            "../../src/net/Acceptor.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Acceptor.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/NetInterface.cpp.o",
+            "../../src/net/NetInterface.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/NetInterface.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/MediaSession.cpp.o",
+            "../../src/xop/MediaSession.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/MediaSession.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/RtspConnection.cpp.o",
+            "../../src/xop/RtspConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/Acceptor.cpp.o",
+            "../../src/net/Acceptor.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Acceptor.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/SocketUtil.cpp.o",
+            "../../src/net/SocketUtil.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/SocketUtil.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/RtspConnection.cpp.o",
+            "../../src/xop/RtspConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/RtspConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/BufferWriter.cpp.o",
+            "../../src/net/BufferWriter.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferWriter.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/TcpServer.cpp.o",
+            "../../src/net/TcpServer.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpServer.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/Pipe.cpp.o",
+            "../../src/net/Pipe.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/Pipe.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/EventLoop.cpp.o",
+            "../../src/net/EventLoop.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EventLoop.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/xop/H265Source.cpp.o",
+            "../../src/xop/H265Source.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/H265Source.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/net/EpollTaskScheduler.cpp.o",
+            "../../src/net/EpollTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EpollTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/BufferWriter.cpp.o",
+            "../../src/net/BufferWriter.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/BufferWriter.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/EpollTaskScheduler.cpp.o",
+            "../../src/net/EpollTaskScheduler.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/EpollTaskScheduler.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_pusher.dir/src/net/TcpConnection.cpp.o",
+            "../../src/net/TcpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/TcpConnection.cpp.o",
+            "../../src/net/TcpConnection.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/TcpConnection.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_server.dir/src/xop/AACSource.cpp.o",
+            "../../src/xop/AACSource.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/xop/AACSource.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-I/home/heng/RtspServer/include/mpp/include",
+            "-I/home/heng/RtspServer/src",
+            "-I/home/heng/RtspServer/src/net",
+            "-I/home/heng/RtspServer/src/xop",
+            "-I/home/heng/RtspServer/src/3rdpart",
+            "-I/home/heng/RtspServer/src/camera",
+            "-O2",
+            "-std=gnu++11",
+            "-o",
+            "CMakeFiles/rtsp_h264_file.dir/src/net/NetInterface.cpp.o",
+            "../../src/net/NetInterface.cpp"
+        ],
+        "directory": "/home/heng/RtspServer/build/build_linux_aarch64",
+        "file": "../../src/net/NetInterface.cpp"
+    }
+]
