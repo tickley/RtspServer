@@ -10,7 +10,7 @@
 
 目前情况
 -
-* 支持 Windows 和 Linux平台。
+* 支持 Linux平台。
 * 支持 H264, H265, G711A, AAC 四种音视频格式的转发。
 * 支持同时传输音视频。
 * 支持单播(RTP_OVER_UDP, RTP_OVER_RTSP), 组播。
@@ -20,23 +20,17 @@
 
 编译环境
 -
-* Linux: gcc 4.8
-* Windows: vs2015
+* Linux: gcc 10.1
 
 整体框架
 -
 ![image](https://github.com/PHZ76/RtspServer/blob/master/pic/1.pic.JPG) 
 
-
-感谢
+如何使用
 -
-* [websocketpp-md5](https://github.com/zaphoyd/websocketpp)
-
-其他问题
--
-* 如何转发或推流媒体文件? 项目目前没有实现对媒体文件的解析, 可以通过ffmpeg对文件进行帧读取再进行转发。
-* RTSP连接成功没有收到数据? (1)可以使用Wireshark分析RTP包。(2)确定系统的大小端模式。
-
-联系方式
--
-* penghaoze76@qq.com
+* 数据流 v4l2 --> rkmpp_encode --> H264/H265 --> rtsp
+* rtsp_camera 支持RK3566 RK3568 RK3588 其他芯片的视频编码模块
+```
+./buid-linux_RK3566_RK3568.sh
+./install/rtsp_camera -I /dev/video11 -w 1920 -h 1080
+```
